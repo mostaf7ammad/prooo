@@ -1,0 +1,42 @@
+table {
+    margin: 20px auto;
+    border-spacing: 0px;
+    width: 600px;
+
+}
+
+table th,
+td {
+    border: 1px solid #ccc;
+}
+
+thead {
+    background-color: rgba(95, 33, 33, 0.815);
+    font-size: 25px;
+    padding: 20px;
+
+    font-family: 'Mr Dafoe', cursive;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+tbody {
+    background-color: #eee;
+    padding: 20px;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Mr Dafoe', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+
+}
+
+tfoot {
+    background-color: #eee6e6;
+    padding: 20px;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Mr Dafoe', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+
+}
